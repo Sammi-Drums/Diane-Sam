@@ -8,7 +8,13 @@
     --shadow: 0px 6px 30px rgba(0, 0, 0, 0.08);
     
 }
-
+/* Sammi-Drums stylings */
+.rounded-picture{
+    border-radius: 50%;
+    overflow: hidden;
+    height: 85%;
+    display: inline-block;
+}
 body {
     font-family: "Barlow", sans-serif;
     color: var(--body);
@@ -98,7 +104,7 @@ section {
 }
 
 .slide1 {
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../img/Team11.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../img/TeamD6.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -244,7 +250,7 @@ text-align: center;}
 }
 
 .service img {
-    width: 90px;
+    width: 200px;
 }
 
 
