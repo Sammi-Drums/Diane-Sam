@@ -258,8 +258,13 @@ text-align: center;}
     position: relative;
     overflow: hidden;
     z-index: 2;
+    height: 500px;
+    width: 100%;
 }
-
+.project .image{
+    background-image: ;
+    
+}
 .project h6 {
     font-weight: 400;
 }
@@ -287,8 +292,10 @@ text-align: center;}
 .project .content {
     position: absolute;
     left: 10%;
-    bottom: 10%
+    bottom: 10%;
+    width: 100%;
 }
+
 
 .project h2,
 .project h6 {
